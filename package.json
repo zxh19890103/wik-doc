@@ -4,9 +4,7 @@
   "main": "",
   "types": "",
   "license": "MIT",
-  "scripts": {
-    "ship": "gh-pages -d _site"
-  },
+  "scripts": {},
   "dependencies": {
     "darkreader": "^4.9.58",
     "gh-pages": "^6.0.0"
