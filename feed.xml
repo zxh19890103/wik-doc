@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://wik.zhangxinghai.cn/feed.xml" rel="self" type="application/atom+xml" /><link href="http://wik.zhangxinghai.cn/" rel="alternate" type="text/html" /><updated>2023-09-09T15:34:46+08:00</updated><id>http://wik.zhangxinghai.cn/feed.xml</id><title type="html">Wik, Warehouse Digitalization</title><subtitle>Wik is the best choice to develop a large-scale web graphic application.</subtitle><entry><title type="html">Talk about documentations (2022-10-20)</title><link href="http://wik.zhangxinghai.cn/blog/2023/02/12/talk-how-to-write-doc.html" rel="alternate" type="text/html" title="Talk about documentations (2022-10-20)" /><published>2023-02-12T00:00:00+08:00</published><updated>2023-02-12T00:00:00+08:00</updated><id>http://wik.zhangxinghai.cn/blog/2023/02/12/talk-how-to-write-doc</id><content type="html" xml:base="http://wik.zhangxinghai.cn/blog/2023/02/12/talk-how-to-write-doc.html"><![CDATA[<h2 id="topics">Topics</h2>
+
+<ul>
+  <li>文档 site 的布局与样式</li>
+  <li>
+    <p>图形库的名字</p>
+
+    <ol>
+      <li>中文 “仓库图形库”</li>
+      <li>英文 “WarehouseGUI” ？</li>
+    </ol>
+  </li>
+  <li>
+    <p>讨论一下文档的作用，从两个视角</p>
+
+    <ol>
+      <li>作者</li>
+      <li>阅读者</li>
+    </ol>
+  </li>
+  <li>
+    <p>idea：从文档出发驱动实现</p>
+  </li>
+  <li>图形库的构建打包：umd + d</li>
+  <li>
+    <p>拿两个写好的文档一起具体讨论下：</p>
+
+    <ul>
+      <li>排版</li>
+      <li>能否读懂</li>
+      <li>能否通过文档了解到作者的设计</li>
+      <li>有什么好的意见/建议</li>
+    </ul>
+  </li>
+  <li>
+    <p>内容的两个部分：</p>
+
+    <ol>
+      <li>api - 注释</li>
+      <li>overview</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="会议记录">会议记录</h2>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Topics]]></summary></entry></feed>
